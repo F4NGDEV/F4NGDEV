@@ -5,4 +5,4 @@
 
 
 ### Projects
-Discord Bot - [here](F4NGDEV/helix)
+Discord Bot - [here](https://github.com/F4NGDEV/helix)
