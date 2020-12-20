@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 ### Projects
-Discord Bot - [here](https://github.com/F4NGDEV/helix)
+   - [Discord Bot](https://github.com/F4NGDEV/helix)
