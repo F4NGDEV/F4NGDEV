@@ -4,7 +4,7 @@
    - [Helix discord Bot](https://github.com/F4NGDEV/helix)
    - [Weather App](https://github.com/F4NGDEV/WeatherApp)
 
-### Languages I am currently learning
+### Things I am currently learning
 <img align="left" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width= "45" height = "45">
 <img align="left" alt="csharp" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" height="50">
 <br> 
