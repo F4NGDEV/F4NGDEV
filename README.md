@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### My projects
    - [Helix Discord Bot](https://github.com/F4NGDEV/helix)
