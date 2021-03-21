@@ -8,7 +8,6 @@
    <br>
    <a href="https://github.com/faanng/WeatherApp">Weather App</a>
 </details>
-<br>
 
 ### Things I am currently learning
 <img align="left" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width= "45" height = "45">
