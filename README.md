@@ -2,7 +2,7 @@
 
 <br>
 <details>
-<summary>My projects</summary>
+   <summary><b>My projects</b></summary>
    <br>
    <a href="https://github.com/faanng/helix">Helix Discord Bot</a>
    <br>
