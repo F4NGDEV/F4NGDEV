@@ -1,8 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My projects
-   - [Helix Discord Bot](https://github.com/F4NGDEV/helix)
-   - [Weather App](https://github.com/F4NGDEV/WeatherApp)
+
+<details>
+<summary>My projects</summary>
+   <a href="https://github.com/faanng/helix">Helix Discord Bot</a>
+   <br>
+   <a href="https://github.com/faanng/WeatherApp">Weather App</a>
+</details>
 
 ### Things I am currently learning
 <img align="left" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width= "45" height = "45">
@@ -18,6 +22,7 @@
 <br> 
 <br>
 
+---
 
 
 ### My GitHub Stats
