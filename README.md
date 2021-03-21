@@ -3,6 +3,7 @@
 
 <details>
 <summary>My projects</summary>
+   <br>
    <a href="https://github.com/faanng/helix">Helix Discord Bot</a>
    <br>
    <a href="https://github.com/faanng/WeatherApp">Weather App</a>
