@@ -9,6 +9,7 @@
    <a href="https://github.com/faanng/WeatherApp">Weather App</a>
 </details>
 
+<br>
 ### Things I am currently learning
 <img align="left" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width= "45" height = "45">
 <img align="left" alt="csharp" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" height="50">
@@ -22,8 +23,7 @@
 <img align="left" alt="vs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" width="40" height="40">
 <br> 
 <br>
-
-
+<br>
 
 
 ### My GitHub Stats
