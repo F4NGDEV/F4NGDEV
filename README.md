@@ -19,6 +19,7 @@
 ### Tools I use
 <img align="left" alt="pycharm" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40">
 <img align="left" alt="neovim" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="40" height="40">
+<img align="left" alt="postgres" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40">
 <br> 
 <br>
 <br>
