@@ -1,12 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br>
-<details>
-   <summary><b>My projects</b></summary>
-   <br>
-   <a href="https://github.com/faanngg/HelixDiscordBot">Helix Discord Bot</a>
-   <br>
-</details>
+
+### My projects
+ - <a href="https://github.com/ffaanngg/HelixDiscordBot">Helix Discord Bot</a>
+
+- <a href="https://github.com/ffaanngg/pyston">Pyston</a>
+   
 
 ### Things I am currently learning
 <img align="left" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width= "45" height = "45">
