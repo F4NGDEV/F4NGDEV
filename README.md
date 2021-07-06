@@ -26,9 +26,9 @@
 
 
 ### My GitHub Stats
-   ![My github stats](https://github-readme-stats.vercel.app/api?username=faanngg&show_icons=true&theme=react)
+   ![My github stats](https://github-readme-stats.vercel.app/api?username=ffaanngg&show_icons=true&theme=react)
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faanngg&show_icons=true&theme=react)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffaanngg&show_icons=true&theme=react)
 
 
    
